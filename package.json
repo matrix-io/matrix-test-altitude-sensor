@@ -1,9 +1,12 @@
 {
   "name": "matrix-test-altitude-sensor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "keywords":["matrix-io","altitude"],
+  "keywords": [
+    "matrix-io",
+    "altitude"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
