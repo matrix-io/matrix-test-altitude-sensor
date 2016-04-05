@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-var os = require( 'os' );
-
 var height = Math.round( Math.random() * 100 ) * 100;
 
 setInterval( function () {

@@ -1,14 +1,22 @@
 {
-  "name": "matrix-altitude-sensor",
-  "version": "0.0.0",
+  "name": "matrix-test-altitude-sensor",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "AdMobilize <dev@admobilize.com>",
+  "contributors": [
+    "Sean Canton <sean.canton@admobilize.com>"
+  ],
+  "directories": {
+    "bin": "./bin",
+    "lib": "./lib"
+  },
   "license": "ISC",
-  "sensors": [
-    "altitude"
-  ]
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/matrix-io/matrix-test-altitude-sensor"
+  }
 }
